@@ -1,0 +1,22 @@
+{
+  "name": "restapi-mysql",
+  "version": "1.0.0",
+  "description": "Build RestApi using Mysql DB Enginee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nodejs",
+    "Mysql",
+    "ExpressJs",
+    "Body-parser"
+  ],
+  "author": "Nghia Dang",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
